@@ -1,0 +1,14 @@
+Ngày 16/11/2023  Báo cáo tiến độ
+• Hôm qua đã học: ( Tìm hiểu nguyên tắc cần nắm trong oop, mô hình bộ nhớ Java )
+- Tạo key ssh
+- Hoàn thành week3 khóa oop
+- Thiết lập java vs Eclipse trên windows
+- Tạo Gui bằng Papplet
+- Làm Kiểm tra bài tập lập trình trên khóa học
+• Hôm nay cần làm:
+- Cốt lõi kế thừa
+- Cốt lõi tham chiếu
+- Quy tắc biên dịch
+- Quy tắc cần tuân theo cho tính đa hình
+• Vướng mắc:
+- Không push được lên git "lỗi push"

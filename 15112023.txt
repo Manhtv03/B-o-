@@ -1,0 +1,20 @@
+Ngày 15/11/2023  Báo cáo tiến độ
+• Hôm qua đã học: ( Tìm hiểu nguyên tắc cần nắm trong oop, mô hình bộ nhớ Java )
+- Class and Objects
+- Attributes and Methods
+- Inheritance
+- Polymophism ( tính đã hình)
+- Encapsulation ( Tính đóng gói)
+- Interface and Abstract Class
+- Multiple Inheritancen ( đa kế thừa)
+- Overriding and Overloading ( Ghi đè, nạp chồng)
+- Vẽ mô hình bộ nhớ cho các kiểu nguyên thủy
+- Vẽ mô hình bộ nhớ bằng objects
+• Hôm nay cần làm:
+- Tìm hiểu cách sử dụng ssh 
+- Hoàn thành week3 khóa oop
+- Thiết lập java vs Eclipse trên windows
+- Tạo Gui bằng Papplet
+- Làm Kiểm tra bài tập lập trình trên khóa học
+• Vướng mắc:
+-	
