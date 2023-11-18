@@ -1,0 +1,11 @@
+Ngày 18/11/2023  Báo cáo tiến độ
+• Hôm qua đã học:
+- Ecent-Driven programming
+- Thuật toán
+- Hoàn thành week5, week6
+• Hôm nay cần làm:
+- Hệ thống lại kiến thức OOP
+• Vướng mắc: ( Khi em tìm và thấy được 2 định nghĩa về oop như 2 ý e note lại ở dưới thì cho em hỏi là cái nào là định nghĩa sát nhất và định nghĩa một cách đúng nhất và hai định nghĩa này khác nhau như nào ạ)
+- OOP là mô hình lập trình mà trong đó các chương trình 
+được tổ chức dưới dạng Object
+- OOP là phương pháp lập trình dựa trên khái niệm về class và object
