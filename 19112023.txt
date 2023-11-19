@@ -1,0 +1,8 @@
+Ngày 19/11/2023  Báo cáo tiến độ
+• Hôm qua đã học:
+- Sơ đồ Hệ thống lại kiến thức OOP
+• Hôm nay cần làm:
+- Game object
+- Component
+• Vướng mắc:(oop)
+- Abstraction khái niệm , công dụng
