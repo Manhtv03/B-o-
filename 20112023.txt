@@ -1,0 +1,9 @@
+Ngày 20/11/2023  Báo cáo tiến độ
+• Hôm qua đã học:
+- Game object
+- Component
+• Hôm nay cần làm:
+- Game object
+- Component
+• Vướng mắc:
+- Chưa tìm được tài liệu giải thích chính xác nghĩa của các chi tiết bên trong của phần GameObject 
